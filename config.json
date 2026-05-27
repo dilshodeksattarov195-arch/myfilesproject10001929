@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productetringify",
+        "uuid": 7775799,
+        "checksum": "atkv9c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
